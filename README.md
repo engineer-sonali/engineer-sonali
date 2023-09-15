@@ -1,4 +1,6 @@
 # Hola 👋
+![Banner](https://github.com/engineer-sonali/engineer-sonali/assets/71033672/6ccd0084-2eb6-4972-87cc-e5915749fb53)
+
 
 <!--
 **engineer-sonali/engineer-sonali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
