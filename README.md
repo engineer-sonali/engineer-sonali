@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, I'm Sonali Sharma</h1>
+<h1 align="center">Hola 👋, I'm Sonali Sharma 👩‍🎓</h1>
 <h3 align="center">Software Engineer | Passion for Innovation | AI/ML and AR/VR Enthusiast | Curious Lifelong Learner</h3>
 
 - 🔭 I’m currently working on **deep learning and augmented reality projects.**
@@ -31,15 +31,15 @@ Here are some ideas to get you started:
 
 <h3 align="left">Internship Experience:</h3>
 
-- 🌱 Augmented Reality Development Intern at **National Informatics Centre,** India
+- 💡 Augmented Reality Development Intern at **National Informatics Centre,** India
 
-- 🌱 Space Research and Software Development Intern at **Blue Eye Soft Corp,** USA
+- 💡 Space Research and Software Development Intern at **Blue Eye Soft Corp,** USA
 
-- 🌱 Deep Learning Intern at **Technical Coding Research Innovation,** India
+- 💡 Deep Learning Intern at **Technical Coding Research Innovation,** India
 
-- 🌱 Product Development Intern at **SAKEC,** India
+- 💡 Product Development Intern at **SAKEC,** India
 
-- 🌱 Software Engineer Intern at **MarketLync,** USA
+- 💡 Software Engineer Intern at **MarketLync,** USA
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
