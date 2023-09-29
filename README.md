@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hola 👋, I'm Sonali Sharma 👩‍🎓</h1>
 <h3 align="center">Software Engineer | Passion for Innovation | AI/ML and AR/VR Enthusiast | Curious Lifelong Learner</h3>
 
-- 🔭 I’m passionate about working on **deep learning and augmented reality projects.**
+- 🔭 I’m passionate about working on **AR/VR and AI/ML projects.**
 
 - 👯 I love to collaborate on **innovative projects.**
 
