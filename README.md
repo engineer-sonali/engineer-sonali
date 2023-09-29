@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, I'm Sonali Sharma 👩‍🎓</h1>
+<h1 align="center">Hola👋, I'm Sonali Sharma!👩‍🎓</h1>
 <h3 align="center">Software Engineer | Passion for Innovation | AI/ML and AR/VR Enthusiast | Curious Lifelong Learner</h3>
 
 - 🔭 I’m passionate about working on **AR/VR and AI/ML projects.**
@@ -39,6 +39,27 @@ Here are some ideas to get you started:
 - 💡 Product Development Intern at **SAKEC,** India
 
 - 💡 Software Engineer Intern at **MarketLync,** USA
+
+<h3 align="left">Projects:</h3>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Augmented-Humanoid-Counselor-For-Mental-Health" target="blank">Augmented Humanoid Counselor for Mental Health using LSTM Neural Network</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Exoplanet-Hunting" target="blank">Exoplanet Hunting</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Protect-While-You-Farm" target="blank">Protect While You Farm</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Breast-Cancer-Detection" target="blank">Breast Cancer Detection</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Global-Wheat-Detection" target="blank">Global Wheat Detection</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/The-Climate-Web-App" target="blank">The Climate Web App</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Placement-Ingress" target="blank">Placement Ingress</a>
+
+- 🎯 <a href="https://github.com/engineer-sonali/Intriguing-Quotes" target="blank">Intriguing Quotes</a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
