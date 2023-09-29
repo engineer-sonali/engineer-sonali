@@ -48,18 +48,13 @@ Here are some ideas to get you started:
 
 - 🎯 <a href="https://github.com/engineer-sonali/Protect-While-You-Farm" target="blank">Protect While You Farm</a>
 
+- 🎯 <a href="https://github.com/engineer-sonali/Star-Type-Classification" target="blank">Star Type Classification</a>
+
 - 🎯 <a href="https://github.com/engineer-sonali/Breast-Cancer-Detection" target="blank">Breast Cancer Detection</a>
 
 - 🎯 <a href="https://github.com/engineer-sonali/Global-Wheat-Detection" target="blank">Global Wheat Detection</a>
 
 - 🎯 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a>
-
-- 🎯 <a href="https://github.com/engineer-sonali/The-Climate-Web-App" target="blank">The Climate Web App</a>
-
-- 🎯 <a href="https://github.com/engineer-sonali/Placement-Ingress" target="blank">Placement Ingress</a>
-
-- 🎯 <a href="https://github.com/engineer-sonali/Intriguing-Quotes" target="blank">Intriguing Quotes</a>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
