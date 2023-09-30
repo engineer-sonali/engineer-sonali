@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Projects:</h3>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Augmented-Humanoid-Counselor-For-Mental-Health" target="blank">Augmented Humanoid Counselor for Mental Health using LSTM Neural Network</a>
+- 🎯 <a href="https://github.com/engineer-sonali/Augmented-Humanoid-Counselor-For-Mental-Health" target="blank">Augmented Humanoid</a>
 
 - 🎯 <a href="https://github.com/engineer-sonali/Exoplanet-Hunting" target="blank">Exoplanet Hunting</a>
 
