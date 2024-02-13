@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hola👋, I'm Sonali Sharma!👩‍🎓</h1>
-<h3 align="center">Software Engineer | Passion for Innovation | AI/ML and AR/VR Enthusiast | Curious Lifelong Learner</h3>
+
+<h3 align="center">👩‍💻 Software Engineer | Passion for Innovation | AI/ML and AR/VR Enthusiast | Curious Lifelong Learner</h3>
 
 - 🔭 I’m passionate about working on **AR/VR and AI/ML projects.**
 
@@ -26,38 +27,42 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact: **I see the world in 64 squares. People call it a chessboard!**
 
-<h3 align="left">Internship Experience:</h3>
+<h3 align="left">Internship Experience</h3>
 
-- 💡 Augmented Reality Development Intern at **National Informatics Centre,** India
+- 📱 Augmented Reality Development Intern at **National Informatics Centre,** India
 
-- 💡 Space Research and Software Development Intern at **Blue Eye Soft Corp,** USA
+- 🔭 Space Research and Software Development Intern at **Blue Eye Soft Corp,** USA
 
 - 💡 Deep Learning Intern at **Technical Coding Research Innovation,** India
 
-- 💡 Product Development Intern at **SAKEC,** India
+- 👩‍💼 Product Development Intern at **SAKEC,** India
 
-- 💡 Software Engineer Intern at **MarketLync,** USA
+- 👩‍💻 Software Engineer Intern at **MarketLync,** USA
 
-<h3 align="left">Projects:</h3>
+<h3 align="left">Featured Projects</h3>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Augmented-Humanoid-Counselor-For-Mental-Health" target="blank">Augmented Humanoid</a>
+- 🧠 <a href="https://github.com/engineer-sonali/Augmented-Humanoid-Counselor-For-Mental-Health" target="blank">Augmented Humanoid</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Exoplanet-Hunting" target="blank">Exoplanet Hunting</a>
+- 🪐 <a href="https://github.com/engineer-sonali/Exoplanet-Hunting" target="blank">Exoplanet Hunting</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Protect-While-You-Farm" target="blank">Protect While You Farm</a>
+- 🍁 <a href="https://github.com/engineer-sonali/Protect-While-You-Farm" target="blank">Protect While You Farm</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Star-Type-Classification" target="blank">Star Type Classification</a>
+- 🔍 <a href="https://github.com/engineer-sonali/Breast-Cancer-Detection" target="blank">Breast Cancer Detection</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Breast-Cancer-Detection" target="blank">Breast Cancer Detection</a>
+- 🌾 <a href="https://github.com/engineer-sonali/Global-Wheat-Detection" target="blank">Global Wheat Detection</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Global-Wheat-Detection" target="blank">Global Wheat Detection</a>
+- 📅 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a
+                                                                                                             
+- 🌠 <a href="https://github.com/engineer-sonali/Star-Type-Classification" target="blank">Star Type Classification</a>
 
-- 🎯 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect!</h3>
+<p> The journey never ends! I love to delve into the latest technologies and embrace the thrill of innovation! I believe in the power of teamwork and am always eager to collaborate with like-minded visionaries.💫</p>
 <p align="left">
 <a href="https://linkedin.com/in/engineer-sonali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="engineer-sonali" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+---
+<p>As you reach the end of my GitHub profile, don't hesitate to reach out—I'm excited to connect with individuals who share my passion for innovation and research! 🌟 </p>
