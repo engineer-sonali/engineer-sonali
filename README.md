@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 - 🌾 <a href="https://github.com/engineer-sonali/Global-Wheat-Detection" target="blank">Global Wheat Detection</a>
 
-- 📅 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a
+- 📅 <a href="https://github.com/engineer-sonali/Faculty-Event-Control" target="blank">Faculty Event Control</a>
                                                                                                              
 - 🌠 <a href="https://github.com/engineer-sonali/Star-Type-Classification" target="blank">Star Type Classification</a>
 
